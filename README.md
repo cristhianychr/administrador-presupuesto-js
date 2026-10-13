@@ -6,7 +6,7 @@ Este proyecto forma parte de mi aprendizaje de JavaScript y está enfocado en la
 
 ## 🚀 Demo
 
-🔗 [Ver aplicación en GitHub Pages](https://cristhianychr.github.io/gasto-semanal-js/)
+🔗 [Ver aplicación en GitHub Pages](https://cristhianychr.github.io/administrador-presupuesto-js/)
 
 ## Vista previa
 
@@ -49,7 +49,7 @@ Este proyecto forma parte de mi aprendizaje de JavaScript y está enfocado en la
 ## 📂 Estructura del proyecto
 
 ```text
-gasto-semanal-js/
+administrador-presupuesto-js/
 ├── css/
 │   ├── bootstrap.min.css
 │   └── custom.css
@@ -66,13 +66,13 @@ gasto-semanal-js/
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/cristhianychr/gasto-semanal-js
+   git clone https://github.com/cristhianychr/administrador-presupuesto-js
    ```
 
 2. Accede a la carpeta del proyecto:
 
    ```bash
-   cd gasto-semanal-js
+   cd administrador-presupuesto-js
    ```
 
 3. Abre el archivo `index.html` en tu navegador.
