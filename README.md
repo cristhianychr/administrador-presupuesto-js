@@ -88,5 +88,6 @@ También reforcé el uso de arreglos para administrar gastos, la validación de 
 ## 👨‍💻 Autor
 
 Proyecto desarrollado como parte de mi formación práctica en JavaScript y desarrollo web frontend.
+
 **Cristhian Chanamé**  
 Estudiante de Ingeniería de Software.
